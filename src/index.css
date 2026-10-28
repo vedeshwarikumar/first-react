@@ -1,0 +1,20 @@
+header{
+    background-color: red;
+    height: 50px;
+    width: auto;
+    font-size: 3rem;
+    text-align: center;
+    color: white;
+}
+.journal-entry{
+    display: flex;
+}
+div img{
+    height: 240px;
+    width: 180px;
+    margin: 20 20 20 20;
+    padding: 20px 20px 20px 20px;
+}
+article div{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
