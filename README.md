@@ -5,7 +5,7 @@
 A basic React app built with Vite.
 
 ## Live Demo
-[View the live site](https://your-p.vercel.app)
+[View the live site]([https://your-p.vercel.app](https://first-react-one-hazel.vercel.app))
 
 ## Tech Stack
 - React
